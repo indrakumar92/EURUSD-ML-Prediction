@@ -56,10 +56,3 @@ Total Return: 0.02536
 * Pandas
 * Scikit-Learn
 * Matplotlib
-
-## Future Improvements
-
-* XGBoost
-* ATR Features
-* Walk-Forward Testing
-* Power BI Dashboard
