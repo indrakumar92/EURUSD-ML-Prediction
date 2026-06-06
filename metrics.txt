@@ -1,0 +1,15 @@
+Accuracy: 52.06%
+
+Classification Report
+
+Precision:
+Class 0: 0.51
+Class 1: 0.54
+
+Recall:
+Class 0: 0.73
+Class 1: 0.31
+
+Total Trades: 5800
+Win Rate: 51.69%
+Total Return: 0.02536
