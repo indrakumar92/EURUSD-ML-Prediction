@@ -1,0 +1,17 @@
+Feature,Importance
+hour,0.098383
+return,0.091993
+tick_volume,0.078321
+momentum_5,0.075207
+close_ma10_diff,0.073853
+rsi,0.068984
+close_ma20_diff,0.068738
+volatility,0.066634
+momentum_10,0.065610
+range_pct,0.064529
+ma50,0.058436
+range,0.057840
+ma10,0.057252
+ma20,0.055762
+spread,0.012492
+prev_direction,0.005966
